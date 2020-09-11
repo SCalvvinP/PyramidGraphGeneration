@@ -1,2 +1,3 @@
 # PyramidGraphGeneration
  
+Dependency numpy
